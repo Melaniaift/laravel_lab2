@@ -1,3 +1,10 @@
+Used a database named flowers with the table flori to display this
+![image](https://user-images.githubusercontent.com/76125731/124603670-d79d9980-de72-11eb-8cc0-08b86b511286.png)
+![image](https://user-images.githubusercontent.com/76125731/124603684-db312080-de72-11eb-9bd4-fe441803017b.png)
+![image](https://user-images.githubusercontent.com/76125731/124603710-e3895b80-de72-11eb-836b-edfce9679453.png)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
